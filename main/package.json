@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cmoorelvt/TeamBuilder/issues"
   },
-  "homepage": "https://github.com/cmoorelvt/TeamBuilder#readme"
+  "homepage": "https://github.com/cmoorelvt/TeamBuilder#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
