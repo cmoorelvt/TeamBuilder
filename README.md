@@ -37,7 +37,8 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
 * Add the application to your portfolio.
 
-<iframe src="https://drive.google.com/file/d/1OlVQHaswbdhopYnGFO12kHItkRzIJWby/preview" width="640" height="480"></iframe>
+## Demo
+![](assets/demo.gif)
 
 ## Final Display
 ![screenshot](https://user-images.githubusercontent.com/68356470/97373829-3f83f500-188d-11eb-8fd6-f4c27bc5f76e.PNG)
