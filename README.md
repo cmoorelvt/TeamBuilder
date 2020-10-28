@@ -10,7 +10,6 @@ so that I have quick access to emails and GitHub profiles
 ```
 ## Installation
 Node is required to run this script
-Markup: * Inquirer
 
 ## Demo
 ![](assets/demo.gif)
